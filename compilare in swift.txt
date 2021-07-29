@@ -1,0 +1,8 @@
+Compilare :
+swiftc nomefile.swift -o nomefile_desiderato
+
+file multipli
+swiftc first.swift second.swift third.swift -o program
+
+eseguire :
+./nomefile_desiderato
